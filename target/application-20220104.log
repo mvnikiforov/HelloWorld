@@ -1,0 +1,15 @@
+2022-01-04 20:16:33.812 [main] DEBUG mypackage.App - выполнен вывод в консоль Hello World!
+2022-01-04 20:16:33.814 [main] INFO  mypackage.App - выполнен вывод в консоль Hello World!
+2022-01-04 20:16:33.814 [main] WARN  mypackage.App - выполнен вывод в консоль Hello World!
+2022-01-04 20:16:33.814 [main] ERROR mypackage.App - выполнен вывод в консоль Hello World!
+2022-01-04 20:16:33.814 [main] FATAL mypackage.App - выполнен вывод в консоль Hello World!
+2022-01-04 20:18:05.498 [main] DEBUG mypackage.App - выполнен вывод в консоль Hello World!
+2022-01-04 20:18:05.499 [main] INFO  mypackage.App - выполнен вывод в консоль Hello World!
+2022-01-04 20:18:05.500 [main] WARN  mypackage.App - выполнен вывод в консоль Hello World!
+2022-01-04 20:18:05.500 [main] ERROR mypackage.App - выполнен вывод в консоль Hello World!
+2022-01-04 20:18:05.500 [main] FATAL mypackage.App - выполнен вывод в консоль Hello World!
+2022-01-04 20:18:21.155 [main] DEBUG mypackage.App - выполнен вывод в консоль Hello World!
+2022-01-04 20:18:21.156 [main] INFO  mypackage.App - выполнен вывод в консоль Hello World!
+2022-01-04 20:18:21.156 [main] WARN  mypackage.App - выполнен вывод в консоль Hello World!
+2022-01-04 20:18:21.156 [main] ERROR mypackage.App - выполнен вывод в консоль Hello World!
+2022-01-04 20:18:21.156 [main] FATAL mypackage.App - выполнен вывод в консоль Hello World!
